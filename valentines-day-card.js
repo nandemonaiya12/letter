@@ -15,5 +15,6 @@ $('.js-open-envelope').on('click', function (event) {
 });
 
 $('.envelope__card').on('click', function() {
-  window.location.href = 'Untuk-Elan.html';
+  window.location.href = 'for_You.html';
 });
+
